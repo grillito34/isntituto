@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:nom_car;datatype:blob,name:cod_car;datatype:string,name:id;datatype:int" />
+</info>
